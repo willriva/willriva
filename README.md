@@ -1,7 +1,7 @@
 Olá! Eu sou o Willyan Rivas 👋
 
-![willriva GitHub stats](https://github-readme-stats.vercel.app/api?username=willriva&show_icons=true&theme=dracula&card_width=400)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=willriva&layout=compact&theme=dark&card_width=400)
+![willriva GitHub stats](https://github-readme-stats.vercel.app/api?username=willriva&show_icons=true&theme=dracula&hide_rank=true&card_width=400)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=willriva&layout=compact&theme=dark&card_width=350&langs_count=5)
 
 Tecnologias
 <div style="display: inline_block"><br/>
